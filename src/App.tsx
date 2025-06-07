@@ -18,7 +18,7 @@ function App() {
         </div>
       </main>
       
-      <footer className="bg-gray-800 text-white py-6 mt-8">
+      <footer className="bg-gray-800 text-white py-6 mt-auto">
         <div className="container mx-auto px-4">
           <div className="text-center text-sm">
             <p>MalfyTech SRL | P.IVA: 14225300962 | Via Pellegrino Rossi 15 / 1, 20161 Milano | Capitale Sociale 10.000€</p>
